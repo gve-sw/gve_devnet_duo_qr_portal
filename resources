@@ -1,0 +1,16 @@
+RESOURCES
+
+DUO Auth API
+https://duo.com/docs/authapi#endpoints
+
+DUO Dashboard
+https://admin.duosecurity.com/login?next=%2F
+
+DUO Client for Python
+https://github.com/duosecurity/duo_client_python
+
+Developer Cisco - DUO
+https://developer.cisco.com/duo/
+
+Devnet Learning labs - Intro to DUO
+https://developer.cisco.com/learning/labs/sase-2-duo/introduction/
